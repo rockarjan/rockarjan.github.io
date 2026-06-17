@@ -1,4 +1,4 @@
-# 💻 Jan Rockar
+# 💻 Ján Ročkár
 ### SAP Business Warehouse & Analytics Cloud
 
 Welcome to my personal technical repository. This space serves as a structured knowledge base where I document issues, edge cases, and optimization strategies across the SAP ecosystem, with a focus on SAP BW, BW/4HANA, ABAP, and SAP Analytics Cloud (SAC).
