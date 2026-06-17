@@ -24,11 +24,14 @@ The add-in must be deployed centrally via Microsoft 365 Admin Center and not ins
 
 
 
+
 ## Business Impact
 Blocked Liquidity Planning testing.
 
 ## SAP Reference
-Note 3603475
+[3603475 - SAP Analytics Cloud, add-in for Microsoft Excel – Login leads to blank screen)](https://me.sap.com/notes/3603475/E)
+https://me.sap.com/notes/3192210
+
 
 ---
 
