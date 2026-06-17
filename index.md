@@ -13,4 +13,4 @@ Deployed solutions and technical documentation for real-world incidents, organiz
 
 | Issue / Topic | Component | Documentation |
 | :--- | :---: | :---: |
-| **SAC Excel Add-in – Blank Screen (`office.html`)** | SAC / MS Office | [📄 View Case Study](cases/sac-addin.md) |
+| **SAC Excel Add-in – Blank Screen (`office.html`)** | SAC / MS Office | [📄 View Case Study](cases/SAC/sac-addin.md) |
