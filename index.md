@@ -1,7 +1,3 @@
----
-title: Jan Rockar
----
-
 # 💻 Jan Rockar
 ### Senior SAP Data & Analytics Consultant
 
@@ -18,6 +14,3 @@ Deployed solutions and technical documentation for real-world incidents, organiz
 | Issue / Topic | Component | Documentation |
 | :--- | :---: | :---: |
 | **SAC Excel Add-in – Blank Screen (`office.html`)** | SAC / MS Office | [📄 View Case Study](cases/sac-addin.md) |
-
----
-> 🛠️ *This repository is continuously updated as new edge cases are analyzed and resolved in production environments.*
