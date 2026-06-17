@@ -4,9 +4,9 @@
 User login leads to blank screen (office.html).
 
 ## Solution
-1. Clean up local user configuration
-For affected users, please delete the following folder:
-%LOCALAPPDATA%\Microsoft\Office\16.0\Wef\
+### 1. Clean up local user configuration
+For affected users, please delete the following folder:  
+%LOCALAPPDATA%\Microsoft\Office\16.0\Wef\  
 This removes cached add-in settings that may block proper loading.
 
 ### 2. Deploy the SAC Excel Add-in centrally
